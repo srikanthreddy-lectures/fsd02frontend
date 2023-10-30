@@ -25,7 +25,7 @@ const Header = () => {
                    <Link to="/">  <img className="logo" src="/imgs/logo.png" alt="logo here"/> </Link>
                 </div>
                 <div className="col-sm-5">
-                    <p className="m-0 tagline"> KMIT !!! Your real estate destination!</p>
+                    <p className="m-0 tagline"> KMIT !!!! Your real estate destination!</p>
                 </div>
                 <div className="col-sm-4">
                     { 
